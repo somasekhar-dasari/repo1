@@ -1,0 +1,11 @@
+
+
+.firstbox{
+    display: flex;
+    justify-content: center;
+}
+
+.secondbox{
+    align-items: center;
+    background-color: violet;
+}
